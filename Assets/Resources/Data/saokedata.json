@@ -1,0 +1,84 @@
+{
+    "transactions": [
+        {
+            "txnDate": "2024-09-01T14:23:45",
+            "docNo": "DOC001",
+            "debit": 50000,
+            "credit": 0,
+            "balance": 150000,
+            "transactionDetail": "Thanh toán tiền điện"
+        },
+        {
+            "txnDate": "2024-09-02T09:17:30",
+            "docNo": "DOC002",
+            "debit": 0,
+            "credit": 300000,
+            "balance": 450000,
+            "transactionDetail": "Nhận lương"
+        },
+        {
+            "txnDate": "2024-09-03T18:05:10",
+            "docNo": "DOC003",
+            "debit": 150000,
+            "credit": 0,
+            "balance": 300000,
+            "transactionDetail": "Mua sắm đồ dùng văn phòng"
+        },
+        {
+            "txnDate": "2024-09-04T12:40:25",
+            "docNo": "DOC004",
+            "debit": 0,
+            "credit": 200000,
+            "balance": 500000,
+            "transactionDetail": "Nhận tiền từ khách hàng"
+        },
+        {
+            "txnDate": "2024-09-05T16:22:55",
+            "docNo": "DOC005",
+            "debit": 100000,
+            "credit": 0,
+            "balance": 400000,
+            "transactionDetail": "Chi phí ăn uống"
+        },
+        {
+            "txnDate": "2024-09-06T20:30:00",
+            "docNo": "DOC006",
+            "debit": 0,
+            "credit": 50000,
+            "balance": 450000,
+            "transactionDetail": "Nhận tiền thưởng"
+        },
+        {
+            "txnDate": "2024-09-07T11:15:45",
+            "docNo": "DOC007",
+            "debit": 25000,
+            "credit": 0,
+            "balance": 425000,
+            "transactionDetail": "Thanh toán phí dịch vụ"
+        },
+        {
+            "txnDate": "2024-09-08T09:50:20",
+            "docNo": "DOC008",
+            "debit": 0,
+            "credit": 70000,
+            "balance": 495000,
+            "transactionDetail": "Nhận tiền từ hợp đồng"
+        },
+        {
+            "txnDate": "2024-09-09T14:40:30",
+            "docNo": "DOC009",
+            "debit": 30000,
+            "credit": 0,
+            "balance": 465000,
+            "transactionDetail": "Chi phí vận chuyển"
+        },
+        {
+            "txnDate": "2024-09-10T17:20:40",
+            "docNo": "DOC010",
+            "debit": 0,
+            "credit": 100000,
+            "balance": 565000,
+            "transactionDetail": "Nhận tiền bán hàng"
+        }
+    ]
+}
